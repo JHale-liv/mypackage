@@ -2,7 +2,7 @@
 #'
 #' Prints personalised hello greeting from me.
 #'
-#' @param name A character string. Yoiur name.
+#' @param name A character string. Your name.
 #'
 #' @return Prints greeting from me to console.
 #' @export 

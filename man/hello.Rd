@@ -7,7 +7,7 @@
 hello(name = NULL)
 }
 \arguments{
-\item{name}{A character string. Yoiur name.}
+\item{name}{A character string. Your name.}
 }
 \value{
 Prints greeting from me to console.
